@@ -1,0 +1,6 @@
+package lambda.practical;
+
+public class Car {
+	String make, model, color;
+	int prince;
+}
